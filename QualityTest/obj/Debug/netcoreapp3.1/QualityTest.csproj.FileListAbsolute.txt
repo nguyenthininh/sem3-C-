@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.exe
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.deps.json
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.runtimeconfig.json
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.dll
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.pdb
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.dll
+C:\Users\Admin\Desktop\C sharp\T1904A\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.pdb

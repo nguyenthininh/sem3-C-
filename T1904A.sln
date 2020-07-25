@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1904A", "T1904A\T1904A.csproj", "{49E00DDE-645C-43CE-8EF0-424590DDC0E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityTest", "QualityTest\QualityTest.csproj", "{1ECF530B-1AF2-4CAF-A1C6-5870525DC50B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E00DDE-645C-43CE-8EF0-424590DDC0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E00DDE-645C-43CE-8EF0-424590DDC0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E00DDE-645C-43CE-8EF0-424590DDC0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E00DDE-645C-43CE-8EF0-424590DDC0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECF530B-1AF2-4CAF-A1C6-5870525DC50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECF530B-1AF2-4CAF-A1C6-5870525DC50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECF530B-1AF2-4CAF-A1C6-5870525DC50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECF530B-1AF2-4CAF-A1C6-5870525DC50B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

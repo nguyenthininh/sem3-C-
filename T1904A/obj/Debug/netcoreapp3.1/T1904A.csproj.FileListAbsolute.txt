@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\bin\Debug\netcoreapp3.1\T1904A.exe
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\bin\Debug\netcoreapp3.1\T1904A.deps.json
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\bin\Debug\netcoreapp3.1\T1904A.runtimeconfig.json
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\bin\Debug\netcoreapp3.1\T1904A.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\bin\Debug\netcoreapp3.1\T1904A.dll
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\bin\Debug\netcoreapp3.1\T1904A.pdb
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\obj\Debug\netcoreapp3.1\T1904A.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\obj\Debug\netcoreapp3.1\T1904A.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\obj\Debug\netcoreapp3.1\T1904A.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\obj\Debug\netcoreapp3.1\T1904A.dll
+C:\Users\Admin\Desktop\C sharp\T1904A\T1904A\obj\Debug\netcoreapp3.1\T1904A.pdb
